@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  I am a student pursuing a Bachelor's Degree in Mechanical Engineering with a minor Computer Science from Alabama A&M University 🐕‍🦺. I love to explore the world of technology and am a passionate learner. I love to leverage technologies to provide solution to real-life issues. I am interested in software engineering, software development, and robotics, among other things. I am currently working on developing my technical skills and programming knowledge. I am open to collaboration and am currently seeking internship opportunities. Click <a href="mailto:moyinadelowo@gmail.com">here</a> to contact me.
+  I am a student pursuing a Bachelor's Degree in Mechanical Engineering with a minor Computer Science from Alabama A&M University 🐕‍🦺. I love to explore the world of technology and am a passionate learner. I love to leverage technologies to provide solution to real-life issues. I am interested in manufacturing, software engineering, and robotics, among other things. I am currently working on developing my engineering and technical skills. I am open to collaboration and am currently seeking internship opportunities. Click <a href="mailto:moyinadelowo@gmail.com">here</a> to contact me.
 </p>
 
 <br />
@@ -78,26 +78,26 @@
 
 <picture>
   <source
-    srcset="http://github-readme-streak-stats.herokuapp.com?user=Moyinoluwa-10&theme=gotham"
+    srcset="http://github-readme-streak-stats.herokuapp.com?user=moyinoluwa-10&theme=gotham"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="http://github-readme-streak-stats.herokuapp.com?user=Moyinoluwa-10&theme=github-light"
+    srcset="http://github-readme-streak-stats.herokuapp.com?user=moyinoluwa-10&theme=github-light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Moyinoluwa-10&theme=github-light" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=moyinoluwa-10&theme=github-light" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyinoluwa-10&theme=gotham&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moyinoluwa-10&theme=gotham&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyinoluwa-10&theme=github-light&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moyinoluwa-10&theme=github-light&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyinoluwa-10&theme=github-light&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyinoluwa-10&theme=github-light&layout=compact" />
 </picture>
 
 </div>
@@ -132,7 +132,7 @@
 
 
 <!--
-**Moyinoluwa-10/Moyinoluwa-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**moyinoluwa-10/moyinoluwa-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
